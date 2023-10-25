@@ -114,6 +114,7 @@ header{
 footer{
     display: flex;
     text-align: center;
+    background-color: #16161b;
 }
 
 
