@@ -109,9 +109,12 @@ header{
 
 .imagens_footer{
     height: 40px;
-    text-align: center;
 }
 
+footer{
+    display: flex;
+    text-align: center;
+}
 
 
 
