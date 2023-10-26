@@ -119,11 +119,12 @@ footer{
 
 footer a{
     text-align: center;
-    padding: 10px 10px 10px 10px;
+    padding: 15px 15px 15px 15px;
 }
 
 footer .lnks_footer{
     display: flex;
+    text-decoretion: none;
 }
 
 
