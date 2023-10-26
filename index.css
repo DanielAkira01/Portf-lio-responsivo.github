@@ -133,7 +133,7 @@ footer p{
     color: rgb(255, 0, 128);
 }
 
-.footer-link:hover{
+footer p:hover{
     color: gold;
     transition: 0.6s;
 }
