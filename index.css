@@ -120,6 +120,7 @@ footer{
 footer a{
     text-align: center;
     padding: 15px 15px 15px 15px;
+    text-decoration: none;
 }
 
 footer .lnks_footer{
@@ -127,7 +128,6 @@ footer .lnks_footer{
 }
 
 footer p{
-    text-decoretion: none;
     color: rgb(255, 0, 128);
 }
 
