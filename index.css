@@ -117,7 +117,10 @@ footer{
     background-color: aqua;
 }
 
-
+footer a{
+    text-align: center;
+    padding: 0px 10px;
+}
 
 
 
