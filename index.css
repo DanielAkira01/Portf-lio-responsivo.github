@@ -103,6 +103,12 @@ header{
     text-decoration: none;
 }
 
+.texto_link:hover{
+    color: gold;
+    transition: 0.6s;
+}
+    
+
 .calculadora{
     height: 60px;
     display: flex;
