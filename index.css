@@ -37,6 +37,7 @@ header{
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
 }
+.text,
 .list{
     background-color: #272727;
     border-radius: 10%;
