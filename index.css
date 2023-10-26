@@ -28,7 +28,7 @@ body{
 }
 
 header{
-    background-color: #3434ff ;
+    background-color: #16161b ;
 }
 
 .text,
@@ -131,7 +131,9 @@ footer .lnks_footer{
 
 footer p{
     color: rgb(255, 0, 128);
-    background-color: blue;
 }
 
-
+.hover-footer:hover{
+    color: gold;
+    transition: 0.6s;
+}
