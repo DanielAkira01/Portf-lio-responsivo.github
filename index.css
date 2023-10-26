@@ -131,9 +131,10 @@ footer .lnks_footer{
 
 footer p{
     color: rgb(255, 0, 128);
+    margin: 15px 15px;
 }
 
-.hover-footer{
+footer p:hover{
     color: gold;
     transition: 0.6s;
 }
