@@ -112,9 +112,9 @@ header{
 }
 
 footer{
-    margin: 0 10px;
-    background-color: white;
-    text-align:center;
+    display: flex;
+    justify-content:center;
+    background-color: #16161b;
 }
 
 
