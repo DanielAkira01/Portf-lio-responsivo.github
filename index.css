@@ -114,7 +114,7 @@ header{
 footer{
     display: flex;
     justify-content:center;
-    background-color: aqua;
+    background-color: #16161b;
 }
 
 footer a{
