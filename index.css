@@ -31,7 +31,8 @@ header{
     background-color: #16161b ;
 }
 
-.text{
+.text,
+.list{
     color: rgb(255, 0, 128);
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
