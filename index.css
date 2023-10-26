@@ -124,8 +124,13 @@ footer a{
 
 footer .lnks_footer{
     display: flex;
-    text-decoretion: none;
 }
+
+footer p{
+    text-decoretion: none;
+    color: rgb(255, 0, 128);
+}
+
 
 
 
