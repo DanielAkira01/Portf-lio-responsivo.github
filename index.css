@@ -161,6 +161,8 @@ footer p:hover{
     }
 
     .menushow{
-        display:block;
+        display:flex;
+        align-items: center;
+        justify-content: space-between;
     }
 }
