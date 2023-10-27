@@ -138,10 +138,3 @@ footer p:hover{
     color: gold;
     transition: 0.6s;
 }
-
-@media screen and (max-width:700px){
-    *{
-        width: 100%;
-        flex-direction: column;
-    }
-}
