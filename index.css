@@ -139,27 +139,3 @@ footer p:hover{
     transition: 0.6s;
 }
 
-.mobile-menu{
-    display: none;
-}
-
-@media screen and (max-width:700px){
-    *{
-        display: revert;
-    }
-
-    .list{
-        display: none;
-    }
-    
-    footer p{
-        display: none;
-    }
-
-    .mobile-menu{
-        display: block;
-        width: 25px;
-        background-color: #282a36;
-        border-radius: 10px;
-    }
-}
