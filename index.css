@@ -139,8 +139,10 @@ footer p:hover{
     transition: 0.6s;
 }
 
-.menushow{
+img.menushow {
     width: 25px;
-    background-color: #282a36;
-    border-radius: 15px;
+    background: #282a36;
+    border: solid #282a36;
+    border-radius: 5px;
+    margin: 10px 10px;
 }
