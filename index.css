@@ -157,12 +157,14 @@ img.menushow{
     }
 
     *{
-        display: block;
+        display: revert;
     }
 
     .list{
         display: none;
     }
-
     
+    footer p{
+        display: none;
+    }
 }
