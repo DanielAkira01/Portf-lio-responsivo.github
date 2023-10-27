@@ -159,5 +159,8 @@ footer p:hover{
     .icon{
         display: none;
     }
-    
+
+    .menushow{
+        display:block;
+    }
 }
