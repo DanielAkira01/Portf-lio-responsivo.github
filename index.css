@@ -138,3 +138,8 @@ footer p:hover{
     color: gold;
     transition: 0.6s;
 }
+
+img .icon{
+    width: 1.5rem;
+    
+}
