@@ -44,7 +44,7 @@ header{
     padding: 10px;
 }
 
-.navigation_header{
+.nav-menu{
     display: flex;
     gap: 54px;
     align-items: center;
@@ -160,14 +160,13 @@ footer p:hover{
     .mobilemenu.active .icon:nth-child(2){
         opacity: 0;
     }
-    .mobilemenu.active .icon:nth-child(1){
-        transform: translateY(8px); rotate: 45deg;
+    .mobilemenu.active .icon:nth-child(2){
+        transform: translateY(8px) rotate(45deg);
     }
-    .mobilemenu.active .icon:nth-child(1){
-        transform: translateY(-8px); rotate: -45deg;
+    .mobilemenu.active .icon:nth-child(2){
+        transform: translateY(-8px) rotate(-45deg);
     }
-
-    .navigation_header{
+    .nav-menu{
         position: fixed;
         left: 100%;
         top: 70px;
@@ -179,10 +178,11 @@ footer p:hover{
         width: 100%;
         transition: 0.3s;
     }
-    .item{
+    .list{
         margin: 16px 0;
     }
-    .item.active{
+    .nav-menu.active{
         left: 0;
     }
+    
 }
