@@ -139,7 +139,7 @@ footer p:hover{
 }
 
 .mobile-menu{
-    display: block;
+    display: none;
     cursor: pointer;
 }
 
@@ -149,7 +149,7 @@ footer p:hover{
     height: 3px;
     border-radius: 2px;
     margin: 5px auto;
-    background-color: #fff;
+    background-color: #282a36;
     transition: all 0.3s ease-in-out;
 }
 
