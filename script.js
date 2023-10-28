@@ -1,10 +1,7 @@
-function myfunction() {
-    var x =
-    document.getElementById("mynavbar");
-    if (x.className === "nav-menu"){
-        x.className += "responsive";
-    } else{
-        x.className = "nav-menu";
-    }
-    
-}
+const mobilemenu = document.querySelector(".mobilemenu");
+const menushow = document.querySelector(".nav-menu");
+
+mobilemenu.addEventListener("click", function() {
+    mobilemenu.classList.toggle('active');
+    menushow.classList.toggle('active');
+});
